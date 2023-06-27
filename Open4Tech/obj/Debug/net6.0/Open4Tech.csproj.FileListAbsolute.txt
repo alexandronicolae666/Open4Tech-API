@@ -1,0 +1,7 @@
+D:\Open4Tech\Open4Tech\obj\Debug\net6.0\Open4Tech.csproj.AssemblyReference.cache
+D:\Open4Tech\Open4Tech\obj\Debug\net6.0\Open4Tech.GeneratedMSBuildEditorConfig.editorconfig
+D:\Open4Tech\Open4Tech\obj\Debug\net6.0\Open4Tech.AssemblyInfoInputs.cache
+D:\Open4Tech\Open4Tech\obj\Debug\net6.0\Open4Tech.AssemblyInfo.cs
+D:\Open4Tech\Open4Tech\obj\Debug\net6.0\Open4Tech.csproj.CoreCompileInputs.cache
+D:\Open4Tech\Open4Tech\obj\Debug\net6.0\Open4Tech.MvcApplicationPartsAssemblyInfo.cs
+D:\Open4Tech\Open4Tech\obj\Debug\net6.0\Open4Tech.MvcApplicationPartsAssemblyInfo.cache
